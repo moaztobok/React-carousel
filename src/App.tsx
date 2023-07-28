@@ -1,4 +1,4 @@
-import {useState,useRef,MouseEvent, MouseEventHandler, TouchEventHandler, TouchEvent, useEffect} from 'react'
+import {useState,useRef,MouseEvent, MouseEventHandler, TouchEventHandler, useEffect} from 'react'
 //slides used in the carousel
 const Slides = [
   'https://images.pexels.com/photos/1166209/pexels-photo-1166209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
